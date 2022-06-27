@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+	<title>Página Website</title>
+	 <meta charset= "utf-8">
+	</head>
+ <body style= "background-color:   #ff6666 ">
+
+	<h1> Lição de Desenvolvimento e Designs para WebSites</h1>
+	<h2>Trabalho feito por Isabelli Fogaça na escola Fernando Prestes</h2>
+	<hr>
+
+	<h2>Confira as fotos:</h2>
+	<h4> Antes do corredor da escola:</h4>
+	<img src="corredor_antes.jpeg" title= ""width="400" height="350">
+	<hr>
+	<h4> Depois do corredor da escola:</h4>
+	<img src="corredor_depois.jpeg" title= ""width="400" height="350">
+	<hr>
+	<h4> Antes da frase motivacional:</h4>
+	<img src="desenho_antes.jpeg" title= ""width="400" height="350">
+	<hr>
+	<h4> Depois da frase motivacional:</h4>
+	<img src="desenho_depois.jpeg" title= ""width="400" height="350">
+	<hr>
+	<h4> Antes da flor lilás que fica perto refeitório do local:</h4>
+	<img src="flor_antes.jpeg" title= ""width="400" height="350">
+	<hr>
+	<h4> Depois da flor lilás que fica perto ao refeitório do local:</h4>
+	<img src="flor_depois.jpeg" title= ""width="400" height="350">
+	<hr>
+	<h4> Antes de uma flor avermelhada com a modelo atrás:</h4>
+	<img src="florvermelhaantes.jpeg" title= ""width="400" height="350">
+	<hr>
+	<h4> Depois da flor avermelhada com a modelo atrás:</h4>
+	<img src="florvermelhadepois.jpeg" title= ""width="400" height="350">
+	<hr>
+
+ </body>
+</html>
